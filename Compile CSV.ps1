@@ -32,7 +32,7 @@ foreach ($xmlItem in $xmlFiles)
     {
         mkdir $csvOutputLocation
 
-        [System.IO.File]::AppendAllText($csvOutputFileName, "Computer Name,Battery Wear Level<Value 1>,Battery Wear Level<Value 2>" + $newLine)
+        [System.IO.File]::AppendAllText($csvOutputFileName, "Computer Name" + "," + "Battery Wear Level<Value 1>" + "," + "Battery Wear Level<Value 2>" + $newLine)
 
         [System.IO.File]::AppendAllText($csvOutputFileName, $computerName + "," + $batteryInfoContent[0] + "," + $batteryInfoContent[1] + $newLine)
     }

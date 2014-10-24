@@ -17,3 +17,12 @@ to pull all the data into one file.
 
 Both files have variabels in them which can be changed to better suit your needs, such as where to write the files to
 and also what kinda of data will be added to the final CSV file.
+
+Credits
+==================
+Nezz Kryptic // Ian Egger 
+  • Creation of program.
+  
+Nir Sofer
+  • For his BatteryInfoView.exe program used to get the information from the battery.
+    - His website if you eould like yo fonate or vheck gor BatteryInfoView.exe updates: http://www.nirsoft.net/

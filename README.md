@@ -21,8 +21,9 @@ and also what kinda of data will be added to the final CSV file.
 Credits
 ==================
 Nezz Kryptic // Ian Egger 
-  • Creation of program.
+  - Creation of program.
   
 Nir Sofer
-  • For his BatteryInfoView.exe program used to get the information from the battery.
-    - His website if you eould like yo fonate or vheck gor BatteryInfoView.exe updates: http://www.nirsoft.net/
+  - For his BatteryInfoView.exe program used to get the information from the battery.
+  - If you would like to check for BatteryInfoView.exe updates or just donate to this great guy
+  - His website is: http://www.nirsoft.net/

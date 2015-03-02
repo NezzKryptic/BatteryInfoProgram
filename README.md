@@ -25,5 +25,5 @@ Nezz Kryptic // Ian Egger
   
 Nir Sofer
   - For his BatteryInfoView.exe program used to get the information from the battery.
-  - If you would like to check for BatteryInfoView.exe updates or just donate to this great guy
-  - His website is: http://www.nirsoft.net/
+  - If you would like to check for BatteryInfoView.exe updates or just donate to this great guy 
+    his website is: http://www.nirsoft.net/

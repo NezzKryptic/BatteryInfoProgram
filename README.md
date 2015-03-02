@@ -16,7 +16,7 @@ Then once all the computers that have ran "BatteryInfo.bat" have finished, you c
 to pull all the data into one file.
 
 Both files have variables in them which can be changed to better suit your needs, such as where to write the files to
-and also what kinda of data will be added to the final CSV file.
+and also what kind of data will be added to the final CSV file.
 
 Credits
 ==================

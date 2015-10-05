@@ -1,20 +1,20 @@
-#The location the already written XML files
+# The location of the already written XML files
 $infoOutputLocation = ".\Raw\"
 
-#Where you'd like your compiled CSV to be written to
+# Where you'd like your compiled CSV to be written to
 $csvOutputLocation = ".\CSVOutput\"
 $csvOutputFileName = $csvOutputLocation + "Compiled-BatteryInfo.csv"
 
-#Variable to hold the newline character for file writting
+# Variable to hold the newline character for file writting
 $newLine = [System.Environment]::NewLine
 
-#Create an array in which contains all XML files
+# Create an array in which contains all XML files
 $xmlFiles = Get-ChildItem -Path $infoOutputLocation
 
-#ForEach to cycle through all xml files
+# Loop to cycle through all xml files
 foreach ($xmlItem in $xmlFiles)
 {
-    #Get Computer Name
+    # Get Computer Name
     $computerName = $xmlItem.Name -replace "Battery-","" -replace ".xml",""
 
     $currentContent = Get-Content $xmlItem.FullName

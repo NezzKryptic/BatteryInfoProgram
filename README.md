@@ -17,7 +17,6 @@ and also what kind of data will be added to the final CSV file.
 # Credits
 ##### Nezz Kryptic // Ian Egger - Lead script designer
 
-##### Nir Sofer
-  - For his BatteryInfoView.exe program used to get the information from the battery.
+##### Nir Sofer - Lead designer of BatteryInfoView.exe
   - If you would like to check for BatteryInfoView.exe updates or just donate to this great guy 
     his website is: http://www.nirsoft.net/
